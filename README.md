@@ -22,7 +22,7 @@ Embark on an epic journey in the mystical world of Dragon Slayer! This text-base
 4. Upgrade your weapons and manage your inventory.
 5. Enjoy a captivating RPG experience with a mix of adventure, strategy, and chance!
 
-Are you ready to repel the dragon and become a legendary hero in Dragon Repeller RPG? The town awaits your courage and skills!
+Are you ready to repel the dragon and become a legendary hero in Dragon Slayer RPG? The town awaits your courage and skills!
 
 <h1>Dragon Slayer RPG - Setup Instructions</h1>
 
