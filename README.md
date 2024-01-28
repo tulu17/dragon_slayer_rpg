@@ -1,4 +1,4 @@
-#**Dragon Slayer RPG**
+<h1>**Dragon Slayer RPG**</h1>
 
 Embark on an epic journey in the mystical world of Dragon Repeller! This text-based RPG invites players to become heroes, facing off against menacing monsters and formidable challenges.
 
