@@ -1,6 +1,6 @@
 <h1>Dragon Slayer RPG</h1>
 
-Embark on an epic journey in the mystical world of Dragon Repeller! This text-based RPG invites players to become heroes, facing off against menacing monsters and formidable challenges.
+Embark on an epic journey in the mystical world of Dragon Slayer! This text-based RPG invites players to become heroes, facing off against menacing monsters and formidable challenges.
 
 **Features:**
 
@@ -26,7 +26,7 @@ Are you ready to repel the dragon and become a legendary hero in Dragon Repeller
 
 <h1>Dragon Slayer RPG - Setup Instructions</h1>
 
-<h2>To embark on your RPG adventure in Dragon Repeller, follow the option of your choosing below.</h2>
+<h2>To embark on your RPG adventure in Dragon Slayer, follow one of the options below.</h2>
 
 <h3>Option 1</h3>
 
@@ -44,7 +44,7 @@ Download .zip from [here](https://drive.google.com/file/d/1Dq6D4-68uwzdoIBx39n2Y
 
 1. Open Visual Studio Code and clone the Repository:
 - Open new bash terminal.
-- Run the following command to clone the Dragon Repeller RPG repository:<br>
+- Run the following command to clone the Dragon Slayer RPG repository:<br>
 **git clone https://github.com/tulu17/dragon_slayer_rpg.git**
 
 2. Install Dependencies:
@@ -55,4 +55,4 @@ Download .zip from [here](https://drive.google.com/file/d/1Dq6D4-68uwzdoIBx39n2Y
 - Press F5 or go to the "Run" menu and select "Start Debugging" to run the game.
 - Open Locally in preffered web browser
       
-You are now ready to immerse yourself in the world of Dragon Repeller RPG! Explore the town, battle monsters, and become the hero the citizens need. May your journey be filled with excitement and triumph!
+You are now ready to immerse yourself in the world of Dragon Slayer RPG! Explore the town, battle monsters, and become the hero the citizens need. May your journey be filled with excitement and triumph!
