@@ -1,4 +1,4 @@
-<h1>**Dragon Slayer RPG**</h1>
+<h1>Dragon Slayer RPG</h1>
 
 Embark on an epic journey in the mystical world of Dragon Repeller! This text-based RPG invites players to become heroes, facing off against menacing monsters and formidable challenges.
 
@@ -24,11 +24,11 @@ Embark on an epic journey in the mystical world of Dragon Repeller! This text-ba
 
 Are you ready to repel the dragon and become a legendary hero in Dragon Repeller RPG? The town awaits your courage and skills!
 
-Dragon Repeller RPG - Setup Instructions
+<h1>Dragon Repeller RPG - Setup Instructions</h1>
 
 To embark on your RPG adventure in Dragon Repeller, follow these simple steps to clone the repository, run the game in Visual Studio Code, and explore the town in your preferred browser.
 
-Prerequisites:
+``Prerequisites:``
 
     Git: Ensure you have Git installed on your machine. You can download it here.
 
