@@ -24,54 +24,29 @@ Embark on an epic journey in the mystical world of Dragon Repeller! This text-ba
 
 Are you ready to repel the dragon and become a legendary hero in Dragon Repeller RPG? The town awaits your courage and skills!
 
-<h1>Dragon Repeller RPG - Setup Instructions</h1>
+<h1>Dragon Slayer RPG - Setup Instructions</h1>
 
 To embark on your RPG adventure in Dragon Repeller, follow these simple steps to clone the repository, run the game in Visual Studio Code, and explore the town in your preferred browser.
 
-``Prerequisites:``
+**Prerequisites:**
 
-    Git: Ensure you have Git installed on your machine. You can download it here.
+1. Git: Ensure you have Git installed on your machine. You can download it here.
+2. Node.js: Make sure Node.js is installed. You can download it here.
+3. Visual Studio Code: Download and install Visual Studio Code from here.
 
-    Node.js: Make sure Node.js is installed. You can download it here.
+**Setup Steps:**
 
-    Visual Studio Code: Download and install Visual Studio Code from here.
+1. Clone the Repository:
+    Open new bash terminal.
+    Run the following command to clone the Dragon Repeller RPG repository:
+    git clone https://github.com/tulu17/dragon-repeller-rpg.git
 
-Setup Steps:
+2. Install Dependencies:
 
-    Clone the Repository:
-        Open your terminal or command prompt.
-        Run the following command to clone the Dragon Repeller RPG repository:
-
-        bash
-
-    git clone https://github.com/your-username/dragon-repeller-rpg.git
-
-    Replace your-username with your GitHub username.
-
-Navigate to Project Directory:
-
-    Change into the project directory using the cd command:
-
-    bash
-
-    cd dragon-repeller-rpg
-
-Install Dependencies:
-
-    Run the following command to install the necessary dependencies:
-
-    bash
-
-        npm install
-
-    Open in Visual Studio Code:
-        Open Visual Studio Code by typing code . in the terminal.
-
+    Run the following command in terminal to install the necessary dependencies:
+        npm i
     Run the Game:
         Press F5 or go to the "Run" menu and select "Start Debugging" to run the game.
-
-    Open Locally in Browser:
-        Once the game is running, open your preferred web browser.
-        Navigate to http://localhost:3000 to access the game locally.
-
+        Open Locally in preffered web browser
+      
 You are now ready to immerse yourself in the world of Dragon Repeller RPG! Explore the town, battle monsters, and become the hero the citizens need. May your journey be filled with excitement and triumph!
