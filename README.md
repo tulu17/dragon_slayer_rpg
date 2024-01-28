@@ -30,19 +30,19 @@ To embark on your RPG adventure in Dragon Repeller, follow these simple steps to
 
 **Prerequisites:**
 
-1. Git: Ensure you have Git installed on your machine. You can download it here.
-2. Node.js: Make sure Node.js is installed. You can download it here.
-3. Visual Studio Code: Download and install Visual Studio Code from here.
+1. Git: Ensure you have Git installed on your machine. You can download it [here](https://git-scm.com/).
+2. Node.js: Make sure Node.js is installed. You can download it [here](https://nodejs.org/en).
+3. Visual Studio Code: Download and install Visual Studio Code from [here](https://code.visualstudio.com/).
 
 **Setup Steps:**
 
 1. Clone the Repository:
 - Open new bash terminal.
-- Run the following command to clone the Dragon Repeller RPG repository:
-**git clone https://github.com/tulu17/dragon-repeller-rpg.git**
+- Run the following command to clone the Dragon Repeller RPG repository:<br>
+**git clone https://github.com/tulu17/dragon_slayer_rpg.git**
 
 2. Install Dependencies:
-- Run the following command in terminal to install the necessary dependencies:
+- Run the following command in terminal to install the necessary dependencies:<br>
 **npm i**
 
 3. Run the Game:
