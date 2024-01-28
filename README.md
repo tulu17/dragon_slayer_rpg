@@ -37,16 +37,16 @@ To embark on your RPG adventure in Dragon Repeller, follow these simple steps to
 **Setup Steps:**
 
 1. Clone the Repository:
-    Open new bash terminal.
-    Run the following command to clone the Dragon Repeller RPG repository:
-    git clone https://github.com/tulu17/dragon-repeller-rpg.git
+- Open new bash terminal.
+- Run the following command to clone the Dragon Repeller RPG repository:
+**git clone https://github.com/tulu17/dragon-repeller-rpg.git**
 
 2. Install Dependencies:
+- Run the following command in terminal to install the necessary dependencies:
+**npm i**
 
-    Run the following command in terminal to install the necessary dependencies:
-        npm i
-    Run the Game:
-        Press F5 or go to the "Run" menu and select "Start Debugging" to run the game.
-        Open Locally in preffered web browser
+3. Run the Game:
+- Press F5 or go to the "Run" menu and select "Start Debugging" to run the game.
+- Open Locally in preffered web browser
       
 You are now ready to immerse yourself in the world of Dragon Repeller RPG! Explore the town, battle monsters, and become the hero the citizens need. May your journey be filled with excitement and triumph!
