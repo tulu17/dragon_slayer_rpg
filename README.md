@@ -26,7 +26,13 @@ Are you ready to repel the dragon and become a legendary hero in Dragon Repeller
 
 <h1>Dragon Slayer RPG - Setup Instructions</h1>
 
-To embark on your RPG adventure in Dragon Repeller, follow these simple steps to clone the repository, run the game in Visual Studio Code, and explore the town in your preferred browser.
+<h2>To embark on your RPG adventure in Dragon Repeller, follow the option of your choosing below.</h2>
+
+<h3>Option 1</h3>
+
+Download .zip from [here](https://drive.google.com/file/d/1Dq6D4-68uwzdoIBx39n2YjUzBVLTNBFL/view?usp=sharing), extract and run slayer_exe.
+
+<h3>Option 2</h3>
 
 **Prerequisites:**
 
@@ -36,7 +42,7 @@ To embark on your RPG adventure in Dragon Repeller, follow these simple steps to
 
 **Setup Steps:**
 
-1. Clone the Repository:
+1. Open Visual Studio Code and clone the Repository:
 - Open new bash terminal.
 - Run the following command to clone the Dragon Repeller RPG repository:<br>
 **git clone https://github.com/tulu17/dragon_slayer_rpg.git**
